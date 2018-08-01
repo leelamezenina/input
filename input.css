@@ -1,0 +1,31 @@
+
+input{
+    font-family:'Courier New', Courier, monospace;
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input{
+    background-color:#4CAF50;
+    color:white;
+}
+option{
+    font-family:'Courier New', Courier, monospace;
+    border-color: #4CAF50;
+}
+select{
+    font-family:'Courier New', Courier, monospace;
+    border-color: #4CAF50;
+}
+#result{
+    font-family:'Courier New', Courier, monospace;
+}
